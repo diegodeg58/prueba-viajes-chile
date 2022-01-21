@@ -1,13 +1,12 @@
 *{
     color: white;
     text-align: center;
+    font-family: Raleway;
+    font-weight: 400;
 }
 
 footer{
-    background-image: url(../img/carousel1.jpg);
-    height: 100vh;
-    background-size: cover;
-    background-position: center;
+    background-color: var(--bs-info);
 }
 
 #quienes-somos, #destacados, #contacto{
